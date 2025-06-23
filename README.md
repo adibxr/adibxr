@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about coding and love working on a 
 ## 📊 GitHub Stats & 📌 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adibxr&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibxr&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adibxr&show_icons=true&theme=default_repocard" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibxr&layout=compact&theme=default_repocard" height="180px"/>
 </div>
 
 ---
@@ -58,12 +58,11 @@ Welcome to my GitHub profile! I'm passionate about coding and love working on a 
 ## 📫 Connect with Me  
 
 <div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="mailto:ccidcop@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="https://github.com/adibxr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=red"/></a>
-  <a href="https://linkedin.com/in/adibxr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
   <a href="https://x.com/adibxr"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=black"/></a>
   <a href="https://instagram.com/adi.bxr"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-  <a href="https://adi.immortaladi.live"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=black"/></a>
+  <a href="https://www.immortaladi.live"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=black"/></a>
 </div>
 
 ---
