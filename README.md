@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love working on a 
 ## 🏆 Longest Streak  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adibxr&theme=radical&hide_border=true&border_radius=5" width="50%"/>
+  <img src="https://streak-stats.demolab.com?user=adibxr&theme=default_repocard&hide_border=true&border_radius=5" width="50%"/>
 </div>
 
 ---
